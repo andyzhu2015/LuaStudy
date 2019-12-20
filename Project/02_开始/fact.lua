@@ -10,3 +10,18 @@ end
 print("enter a number")
 a=io.read("*number")
 print(fact(a))
+
+--[[多行
+注释]]
+
+--[[
+多行注释
+--]]
+
+---[[
+print("取消多行注释")
+--]]
+
+---[[
+print("取消多行注释")
+]]
